@@ -8,6 +8,7 @@ return array(
     'version'     => '1.0',
     'namespace'   => 'David\AutoIncrement',
     'settings_exist' => FALSE,
+    'docs_url'    => 'https://david.nmd.cc/auto_increment/icon.png',
     'fieldtypes' => array(
         'auto_increment' => array(
             'name' => 'Auto Increment',
